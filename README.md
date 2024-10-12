@@ -1,1 +1,1 @@
-The Fashion Shop, which was recently start online T-Shirt store, has a large number of transactions every day, Therefor the Fashion shop owner require a system to manage online t-shirt orders. As you are a talented iCET student, they have thought to give you a chance of making a system for them.
+The Fashion Shop, which was recently start online T-Shirt store, has a large number of transactions every day, Therefor the Fashion shop owner require a system to manage online t-shirt orders.
